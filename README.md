@@ -1,4 +1,4 @@
-### Hi there 👋
+### 👋 Hello World !  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=zhkuo24&show_icons=true&theme=radical)
 
