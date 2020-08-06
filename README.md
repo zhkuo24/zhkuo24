@@ -6,7 +6,7 @@
 
 
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=zhkuo24&show_icons=true&theme=radical)
+![zhkuo24's github stats](https://github-readme-stats.vercel.app/api?username=zhkuo24&show_icons=true&line_height=30)
 
 <!--
 **zhkuo24/zhkuo24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
