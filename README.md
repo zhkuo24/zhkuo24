@@ -7,7 +7,7 @@
 
 
 ![zhkuo24's github stats](https://github-readme-stats.vercel.app/api?username=zhkuo24&show_icons=true&line_height=30)
- <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="500px" />
+ <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="400px" />
 
 <!--
 **zhkuo24/zhkuo24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
