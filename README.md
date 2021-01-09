@@ -4,8 +4,6 @@
 :heart: Programming 
 
 
-![](https://visitor-badge.glitch.me/badge?page_id=zhkuo24.readme)
-
 ![zhkuo24's github stats](https://github-readme-stats.vercel.app/api?username=zhkuo24&show_icons=true&line_height=30)
  <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="320px" />
 
